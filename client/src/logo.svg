@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Circle background -->
+  <circle cx="100" cy="100" r="98" fill="#f4f4f4" stroke="#3e513e" stroke-width="4" />
+
+  <!-- Central stem -->
+  <line x1="100" y1="60" x2="100" y2="140" stroke="#3e513e" stroke-width="3"/>
+
+  <!-- Symmetrical leaves -->
+  <path d="M100 80 C90 70, 70 70, 80 90 C90 110, 100 100, 100 80 Z" fill="#7ba378" stroke="#3e513e" stroke-width="1.5"/>
+  <path d="M100 80 C110 70, 130 70, 120 90 C110 110, 100 100, 100 80 Z" fill="#7ba378" stroke="#3e513e" stroke-width="1.5"/>
+
+  <path d="M100 100 C90 90, 70 90, 80 110 C90 130, 100 120, 100 100 Z" fill="#a3c1a1" stroke="#3e513e" stroke-width="1.5"/>
+  <path d="M100 100 C110 90, 130 90, 120 110 C110 130, 100 120, 100 100 Z" fill="#a3c1a1" stroke="#3e513e" stroke-width="1.5"/>
+
+  <!-- Pot (optional style at base) -->
+  <ellipse cx="100" cy="145" rx="18" ry="6" fill="#c97c5d" />
+</svg>
